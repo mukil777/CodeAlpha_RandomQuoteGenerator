@@ -1,0 +1,2 @@
+# CodeAlpha_RandomQuoteGenerator
+App development
